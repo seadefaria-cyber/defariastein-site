@@ -7,7 +7,7 @@ Sean is still working on this.
 - **D&S:** Times New Roman D and S with a large overlapping italic ampersand. `logos/ds.svg`. The file is live type, not outlined yet.
 
 ## Name
-"DeFaria & Stein" in Copperplate, tracked about .14em, with a black italic Times New Roman ampersand.
+"DeFaria & Stein" entirely in Copperplate, tracked about .14em, including the ampersand, in black.
 
 ## Color
 | Use | Hex |
