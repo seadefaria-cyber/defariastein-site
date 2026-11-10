@@ -25,3 +25,9 @@ Stripes, flannel or plaid, iPhone frames around clips, circled D&S marks, over-a
 ## Not final
 - Email: advertising@defariastein.com has no mail records yet.
 - Clip set is still being expanded. Current working source: `site-source/motion.template.html`.
+
+## Instagram profile picture (2026-11-09)
+- **Chosen:** `instagram-profile/CHOSEN-royal-white.png`, the original Cipher unchanged, white on royal #002FA7, 1080×1080.
+- Keep the original drawing, forks included. Thicker strokes and the plain D and S without the forked ends were tried and set aside.
+- Stay off black and off metallic so the mark never reads like other interlocked monograms in that style.
+- Explorations are kept for reference: `thick`, `ring`, `no-forks`, `crest`, `distinct`, and `materials` (embroidered flannel, letterpress, leather, wax seal, generated textures rather than photos).
